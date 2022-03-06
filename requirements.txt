@@ -1,1 +1,14 @@
-The requirements.txt file should contain the Python libraries necessary to execute your notebook.
+nltk
+word_tokenize
+sent_tokenize
+punctuation
+WordNetLemmatizer
+collections
+Counter
+pandas
+numpy
+datasets
+matplotlib.pyplot
+LinearRegression
+mean_squared_error
+r2_score
